@@ -1,0 +1,7 @@
+export OS_AUTH_URL= www.goole.com
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME= TEst
+export OS_PROJECT_DOMAIN_NAME = 
+export OS_USERNAME= holiwayj
+export OS_USER_DOMAIN_NAME= holiwayj
+export OS_PASSWORD= Test123
